@@ -1,0 +1,9 @@
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\bin\Debug\TaskCalendar.exe.config
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\bin\Debug\TaskCalendar.exe
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\bin\Debug\TaskCalendar.pdb
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\obj\Debug\TaskCalendar.csprojResolveAssemblyReference.cache
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\obj\Debug\TaskCalendar.Properties.Resources.resources
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\obj\Debug\TaskCalendar.csproj.GenerateResource.Cache
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\obj\Debug\TaskCalendar.exe
+d:\users\daniel\documents\visual studio 2015\Projects\TaskCalendar\TaskCalendar\obj\Debug\TaskCalendar.pdb
+D:\Users\Daniel\Documents\Visual Studio 2015\Projects\TaskCalendar\TaskCalendar\obj\Debug\TaskCalendar.Form1.resources
