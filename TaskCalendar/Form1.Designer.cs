@@ -63,6 +63,7 @@
             this.txtContext.Size = new System.Drawing.Size(100, 22);
             this.txtContext.TabIndex = 1;
             this.txtContext.Click += new System.EventHandler(this.txtContext_Enter);
+            this.txtContext.TextChanged += new System.EventHandler(this.txtContext_TextChanged);
             this.txtContext.Enter += new System.EventHandler(this.txtContext_Enter);
             // 
             // lblKind

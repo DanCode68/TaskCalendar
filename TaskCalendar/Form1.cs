@@ -262,6 +262,11 @@ namespace TaskCalendar
             outFile.Close();
         }
 
+        private void txtContext_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void SetLocations()
         {
             //re-initialize dynamic locations
